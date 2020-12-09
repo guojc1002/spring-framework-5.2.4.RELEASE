@@ -12,7 +12,7 @@
 		</org.apache.logging.log4j.version>
 		<slf4j-api.version>1.7.30</slf4j-api.version>
 		<org.aspectj.version>1.9.5</org.aspectj.version>
-		<org.codehaus.groovy.version>2.5.9</org.codehaus.groovy.version>
+		<org.codehaus.groovy.version>3.0.7</org.codehaus.groovy.version>
 	</properties>
 
 
